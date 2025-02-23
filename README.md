@@ -14,10 +14,10 @@ This project is to satisfy the requirements for the micro degree program of prog
 - .gitignore
 
 ### Change log
-- added refactoring resources in the credits
+
 
 ### Credits
 - https://github.com/udacity/pdsnd_github.git
 - https://up1.github.io/git-guide/index.html
-- https://imaginovation.net/blog/code-refactoring-complete-guide/
+
 
