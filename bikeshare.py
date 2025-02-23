@@ -75,7 +75,7 @@ def load_data(city, month, day, time_of_day, bike_type):
     return df
 
 def display_raw_data(df):
-    """Displays raw data 5 lines at a time upon user request."""
+    """Displays raw data 5 lines at a time upon user request. Until data runs out."""
     start_loc = 0
     while True:
         display = input("Do you want to see 5 lines of raw data? Enter yes or no: ").lower()
