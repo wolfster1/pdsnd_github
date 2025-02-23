@@ -14,9 +14,10 @@ This project is to satisfy the requirements for the micro degree program of prog
 - .gitignore
 
 ### Change log
-
+- Added resource in credits for effective software code documenation in github.
 
 ### Credits
 - https://github.com/udacity/pdsnd_github.git
 - https://up1.github.io/git-guide/index.html
+- https://github.com/resources/articles/software-development/tools-and-techniques-for-effective-code-documentation
 
