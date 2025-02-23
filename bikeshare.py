@@ -35,7 +35,7 @@ def get_filters():
 
 def load_data(city, month, day, time_of_day, bike_type):
     """
-    Loads data for the specified city and filters by month, day, time of day, and bike type if applicable.
+    Loads data for the specified city and filters by month, day, time of day, and bike type if applicable. not case sensitive.
 
     Args:
         (str) city - name of the city to analyze
