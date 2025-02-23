@@ -10,7 +10,7 @@ CITY_DATA = {
 
 def get_filters():
     """
-    Asks user to specify a city, month, day, time of day, and bike type to analyze.
+    Asks user to specify a city, month, day, time of day, and bike type to analyze. not case sensitive
 
     Returns:
         (str) city - name of the city to analyze
