@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Date created February 2nd 2025.
+### Date created February 2nd 2025.
 
-### Project Title
-Replace the Project Title
+
+### GITHub Project for Programming for Data Science
+
 
 ### Description
-Describe what your project is about and what it does
+This project is to satisfy the requirements for the micro degree program of programming for data science and is fun to practice github commands to create a collaborative code experience across the teams and to ensure there is an adequate audit trail of code changes with good solid documentation.  
 
 ### Files used
-Include the files used
+- bikeshare.py
+- DOCUMENTATION.md
+- .gitignore
+
+### Change log
+- added refactoring resources in the credits
 
 ### Credits
-https://github.com/udacity/pdsnd_github.git
+- https://github.com/udacity/pdsnd_github.git
+- https://up1.github.io/git-guide/index.html
+- https://imaginovation.net/blog/code-refactoring-complete-guide/
 
